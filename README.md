@@ -1,5 +1,17 @@
 # Task-Tracking-System
 
+User Authentication: Implement user login and registration.
+
+Task Management Module:
+CRUD operations for tasks (Create, Read, Update, Delete).
+Role-based access control (Standard User vs. Admin).
+Tasks should include title, description, due date, priority, and status.
+Tasks should be categorized into different projects.
+Functional navigation and landing page.
+
+Database Design
+Design and implement a database to store users, tasks, projects, and authentication data.
+
 # Frontend
 
 npm install --legacy-peer-deps   
